@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 # Run any notebook in Google Colab or Jupyter
 
-📈 Model Performance
+# 📈 Model Performance
 Each model includes comprehensive evaluation metrics:
 
 Regression: MAE, MSE, RMSE
@@ -51,17 +51,17 @@ Classification: Accuracy, Precision
 
 Visualization: Confusion Matrices, Learning Curves, Feature Importance
 
-📄 License
+# 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-🙏 Acknowledgments
+# 🙏 Acknowledgments
 Dataset providers (Kaggle, UCI Repository, etc.)
 
 Open-source community for amazing libraries
 
 Contributors and reviewers
 
-⭐ Show Your Support
+# ⭐ Show Your Support
 If you find this repository useful, please consider giving it a star ⭐
 
 <div align="center"> <sub>Built with ❤️ for the AI/ML Community</sub> </div>
