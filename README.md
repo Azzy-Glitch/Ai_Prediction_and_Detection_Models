@@ -32,10 +32,10 @@ Each implementation includes data preprocessing, exploratory data analysis, mode
 - ✅ Google Colab ready notebooks
 
 # Clone the repository
-git clone https://github.com/Azzy-Glitch/Ai_Prediction_and_Detection_Models.git
+git clone https://github.com/Azzy-Glitch/AiFusionLab.git
 
 # Navigate to project directory
-cd Ai_Prediction_and_Detection_Models
+cd AiFusionLab
 
 # Install dependencies
 pip install -r requirements.txt
